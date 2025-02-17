@@ -1,0 +1,10 @@
+Angry Enemy
+!
+Plaksina
+200
+5
+20
+5
+4
+15
+1
