@@ -1,0 +1,8 @@
+C:\Users\user\Source\Repos\Rog\ROGALIK\bin\Debug\ROGALIK.exe.config
+C:\Users\user\Source\Repos\Rog\ROGALIK\bin\Debug\ROGALIK.exe
+C:\Users\user\Source\Repos\Rog\ROGALIK\bin\Debug\ROGALIK.pdb
+C:\Users\user\Source\Repos\Rog\ROGALIK\obj\Debug\ROGALIK.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Rog\ROGALIK\obj\Debug\ROGALIK.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\Rog\ROGALIK\obj\Debug\ROGALIK.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Rog\ROGALIK\obj\Debug\ROGALIK.exe
+C:\Users\user\Source\Repos\Rog\ROGALIK\obj\Debug\ROGALIK.pdb
